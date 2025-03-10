@@ -25,6 +25,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Base de datos
+
+Crear la base de datos en postgres y configurar la conexion a la misma en el archivo src/app.module.ts
+
 ## Project setup
 
 ```bash
